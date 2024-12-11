@@ -24,4 +24,7 @@ Log:
 - can make local changes
 - adjusting the template
 - Deploying to Github encounters error during build - Whats going on?
-- 
+
+2024-12-12
+- Looks like my _config.yml still has things not setup correctly to get basic functions running
+- MVP is now up!!
