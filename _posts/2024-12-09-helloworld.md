@@ -17,3 +17,11 @@ Github Pages
 
 To utilize other themes will need to use Jekyll.
 
+Log:
+
+2024-12-11
+- Got the theme forked and running locally
+- can make local changes
+- adjusting the template
+- Deploying to Github encounters error during build - Whats going on?
+- 
